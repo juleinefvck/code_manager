@@ -67,3 +67,5 @@ Last Update: 2025-10-15
 Documentation: https://typedid.dev/docs
 API Reference: https://api.typedid.dev
 Examples: https://github.com/typedid/examples
+
+# PR Update: 2025-10-17 - docs/update-5345
